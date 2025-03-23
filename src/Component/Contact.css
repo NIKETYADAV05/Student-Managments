@@ -1,0 +1,11 @@
+
+.contact{
+    height: 350px;
+    width : 1820px;
+    color: rgb(37, 198, 53);
+    background-color: rgb(228, 228, 184);
+    text-align: center;
+    border: 5px outset rgb(255, 48, 48);
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
